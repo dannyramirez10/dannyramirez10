@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome to my profile!: 👋
 
+👋 Hi! I´m Danny, I´m a Civil Engineer and master in Structural Engineer from the Industrial University of Santander - Colombia
 <!--
 **dannyramirez10/dannyramirez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
